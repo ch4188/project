@@ -1,6 +1,6 @@
 <template>
    <div>
-    <van-nav-bar title="登录" />
+    <van-nav-bar title="登录11111" />
     <div class="box">
       <van-cell-group>
         <van-field v-model="uname" required clearable label="用户名" placeholder="请输入用户名" />
